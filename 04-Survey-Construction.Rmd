@@ -1,0 +1,32 @@
+# Survey Construction 
+
+We did a survey among whoever, to do something. 
+
+## Participants 
+
+Justifications for who is included.
+
+Inclusions 
+
+1. in a 
+
+2. numbered list 
+
+Exclusions 
+
+1. you get 
+
+2. the picture 
+  - and you can nest them, too 
+
+## Question development 
+
+The construct being estimated by each potential answer, and the future use of that construct in deciding whether there is a problem or in solving that problem. 
+
+Then the questions in a list. 
+
+## Deployment 
+
+Survey Monkey or do you have an Australian version? Everyone likes Australian versions. 
+
+Response Rate increasing mechanisms. 

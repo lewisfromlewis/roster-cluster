@@ -1,0 +1,46 @@
+
+# Design for a Randomised Trial 
+
+Definition of an individually randomised crossover trial of different roster types and feasibility. 
+
+## Hypothesis 
+
+Formed from the paper so far: roster A is superior to roster B in an outcome, without being inferior in other important outcomes. 
+
+## Correlated measures and the need for crossover 
+
+As it says. 
+
+## Acceptability 
+
+Among rosterers and the rostereds. Consent for randomisation, alternative arrangements if not consenting, relative acceptability of either. 
+
+## Feasibility 
+
+Including callback and TOIL effects on total available roster hours, any need to cover emergency leave and the resulting effects on the trial's power. 
+
+Cost. 
+
+## Exposures 
+
+Detailed description of the rosters to which to be randomised, the washout period ( _eg_ booked leave) and the method of application. 
+
+## Outcome measures 
+
+Fatigue, how measured? Self report? need for proxy or automated measures of fatigue effects such as reaction time? 
+
+Popularity, by best-worst scoring? 
+
+by ranking? 
+
+by utility function balancing fatigue and therefore feelings of safeness in work against home time and clinical exposure? 
+
+## Sources of bias 
+
+1. RCTs balance, in the long run, for observed and unobserved confounders present at the time of enrollment but not for those that are not present at the time of enrollment. 
+
+Such things introduce bias. 
+
+_eg_, roster A might be really bad for fatigue on shift, but popular because it gives time off between shifts. Those on roster A might sleep heavily and be only as tired as those on other rosters, knowing that they are only on the roster for a month. This can't be controlled, only acknowledged, and the need for monitoring emphasised in the report. 
+
+2. If the measures of fatigue are self reported then doctors may do what doctors always do and underreport; if this is differential in favour of roster A then a false positive will be made more likely. 

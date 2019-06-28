@@ -1,0 +1,22 @@
+
+# Literature Review 
+
+Preamble and general conclusions then  
+
+- list of 
+
+- concepts 
+
+- and approaches tried so far 
+
+## Concepts one by one  
+
+Each dealt with not too deeply but with some clarity to explain the next steps needed.
+
+## and not too many concepts in total 
+
+because that would have the reviewers tired before the actual report 
+
+## And then a summary 
+
+Which is distinct from the summary at the top by having the conclusions that the next steps needed are ... whatever they might be. 

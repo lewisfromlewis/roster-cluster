@@ -1,0 +1,32 @@
+---
+title: "Fatigue Management in Aeromedical Retrieval"
+site: bookdown::bookdown_site
+author: "Lewis Campbell"
+date: "`r Sys.Date()`"
+output: 
+    bookdown::pdf_book:
+      citation_package: natbib 
+      latex_engine: xelatex 
+      number_sections: true
+    bookdown::html_book:
+      toc: true
+      toc_float: true
+      toc_depth: 4
+      css: hideOutput.css
+      keep_md: yes
+      includes:
+        in_header: hideOutput.script
+text-align: "left"
+linestretch: 2
+fontsize: 12pt
+lof: true
+lot: true
+geometry: "left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm"
+bibliography: [roster-cluster.bib, roster-cluster_packages.bib]
+csl: biomed-central.csl
+biblio-style: plain
+link-citations: yes
+---
+# Preface 
+
+This is John Zorbas's Fellowship project for evaluation of the fatigue caused by roster type, and how it is perceived and may be managed.

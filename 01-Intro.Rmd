@@ -1,0 +1,15 @@
+# Introduction 
+
+This is the Introduction, giving very clever reasons for doing this. 
+
+## Background 
+
+Fatigue and it management are well recognised in the airline industry, with refs galore. Principles of roster construction, assessment of fatigue and mandatory periods away from operational duties have reduced the frequency and impact of fatigue on routine operations, apparently. 
+
+The impacts of fatigue are less well explored in medicine. Little data exists on the use of tools comparable to those used in aviation. Aeromedical retrieval offers a convenient way to study the reporting characteristics of those tools among medical staff, in an organisation which maintains current policies on fatigue reporting among its flight crew. I reckon.
+
+## Aims 
+
+1. To describe the outputs of a fatigue monitoring tool in aeromedical retrieval doctors. 
+
+2. To estimate the necessary characteristics of a future randomised controlled trial examining various inputs to fatigue, including roster pattern and mandatory down time. 
